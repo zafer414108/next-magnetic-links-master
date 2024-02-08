@@ -19,7 +19,10 @@ AnimatePresence is used to maintain and manage animated components. Each motion.
 Links are wrapped with the MotionLink component and animated with span components containing text.
 
 Screen gif : 
-https://github.com/zafer414108/next-magnetic-links-master/assets/147662873/7b7c4b1d-3d2e-4ea3-ac0b-595923b4202d
+
+
+https://github.com/zafer414108/next-magnetic-links-master/assets/147662873/2c2517d4-5af1-4d9a-aefd-6a35abf533e4
+
 
 
 
